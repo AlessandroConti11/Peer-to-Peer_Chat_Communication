@@ -141,5 +141,4 @@ public class Peer {
         //update peer list
         new Peer().updateListenToPeers(bufferedReader, setupValues[0], serverThread);
     }
-
 }

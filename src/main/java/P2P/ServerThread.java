@@ -7,7 +7,10 @@ import java.util.HashSet;
 import java.util.Set;
 
 
-public class ServerThread extends Thread{
+/**
+ * The ServerThread class is responsible for managing the server in a peer-to-peer network.
+ */
+public class ServerThread extends Thread {
     /**
      * The server socket used to listen for incoming client connections.
      */
