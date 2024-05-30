@@ -5,7 +5,7 @@ Author: Alessandro Conti - [AlessandroConti11](https://github.com/AlessandroCont
 
 License: [MIT license](LICENSE).
 
-Tags: `#chat`, `#java`, `#P2P`, `#peer-to-peer`, `#software_engineering`.
+Tags: `#chat`, `#computer_engineering`, `#java`, `#P2P`, `#peer-to-peer`.
 
 
 ## Specification
